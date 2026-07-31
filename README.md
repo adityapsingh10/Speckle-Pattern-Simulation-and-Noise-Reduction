@@ -101,7 +101,6 @@ Example output:
 - Wavelet-based Denoising
 - Deep Learning-based Image Denoising
 - Real-time Image Processing
-- Performance Evaluation Metrics (PSNR, SSIM)
 
 ---
 
