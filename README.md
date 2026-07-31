@@ -63,11 +63,6 @@ Speckle-Pattern-Simulation-and-Noise-Reduction
 ├── MATLAB_Code
 │   ├── main.m
 │
-├── Images
-│   ├── Original_Image.png
-│   ├── Noisy_Image.png
-│   └── Filtered_Image.png
-│
 ├── Results
 │
 ├── Documentation
