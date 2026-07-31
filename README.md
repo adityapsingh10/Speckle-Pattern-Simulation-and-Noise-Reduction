@@ -55,25 +55,6 @@ Filtered Image
 
 ```
 
-## Repository Structure
-
-```
-Speckle-Pattern-Simulation-and-Noise-Reduction
-│
-├── MATLAB_Code
-│   ├── main.m
-│
-├── Results
-│
-├── Documentation
-│   ├── Dissertation.pdf
-│   └── Presentation.pdf
-│
-└── README.md
-```
-
----
-
 ## Results
 
 The GUI allows users to compare:
